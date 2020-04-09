@@ -8,11 +8,10 @@ p.lead{
     font-size: 30px;
     font-weight: bold;
     color: #0055FF ;
-    opacity: 100%;
     background-color:chocolate;
 }
 .jumbotron{
     background-image: url(/public/images/background.jpeg);
     height: 800px;
-   opacity: 100%;
+   
 }
