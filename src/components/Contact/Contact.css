@@ -1,0 +1,16 @@
+.fa-github:before {
+    content: "\f09b";
+}
+.fab{
+    display: inline-block;
+    position: relative;
+    border: transparent;
+    color: red;
+    float: left;
+}
+.centered {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+  }

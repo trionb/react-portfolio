@@ -1,0 +1,18 @@
+h1 {
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px ;
+}
+p.lead{
+    padding: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #0055FF ;
+    opacity: 100%;
+    background-color:chocolate;
+}
+.jumbotron{
+    background-image: url(/public/images/background.jpeg);
+    height: 800px;
+   opacity: 100%;
+}
