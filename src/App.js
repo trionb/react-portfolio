@@ -5,6 +5,7 @@ import Portfolio from "../src/components/Portfolio/Porfolio";
 import HomePage from "../src/components/HomePage/HomePage";
 import Contact from "../src/components/Contact/Contact";
 import Projects from "../src/components/Projects/Projects";
+import Footer from "../src/components/Footer/Footer";
 import { BrowserRouter,Route,Switch } from "react-router-dom";
 
 function App (){
@@ -20,6 +21,7 @@ function App (){
         </Switch>
         </BrowserRouter>
         <Projects />
+        <Footer />
         </>
   );
 }
