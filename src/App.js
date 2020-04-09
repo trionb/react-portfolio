@@ -1,10 +1,10 @@
 import React from "react";
-import Header from "../src/components/Header/index";
-import AboutMe from "../src/components/AboutMe/AboutMe";
-import Portfolio from "../src/components/Portfolio/Porfolio";
-import HomePage from "../src/components/HomePage/HomePage";
-import Footer from "../src/components/Footer/Footer";
-import Projects from "../src/components/Projects/Projects"
+import Header from "./components/Header/index";
+import AboutMe from "./components/AboutMe/AboutMe";
+import Portfolio from "./components/Portfolio/Porfolio";
+import HomePage from "./components/HomePage/HomePage";
+import Footer from "./components/Footer/Footer";
+import Projects from "./components/Projects/Projects"
 import { BrowserRouter,Route,Switch } from "react-router-dom";
 
 
@@ -16,8 +16,8 @@ function App (){
         <BrowserRouter>
         <Switch>
           <Route exact path="/" component={HomePage} />
-          <Route exact path="/AboutMe" component={AboutMe} />
-          <Route exact path="/Portfolio" component={Portfolio} />
+          <Route exact path="/about" component={AboutMe} />
+          <Route exact path="/portfolio" component={Portfolio} />
         </Switch>
         </BrowserRouter>
         <Projects/>
