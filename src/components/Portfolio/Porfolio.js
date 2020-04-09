@@ -1,5 +1,7 @@
 import React from "react";
 import "../Portfolio/Portfolio.css"
+import Projects from "../Projects/Projects";
+
 
 function Portfolio () {
     return (
@@ -11,6 +13,7 @@ function Portfolio () {
         <p>Welcome to my portfolio page.</p>
       </section>
       </div>
+      <Projects />
       </>
     );
 }
