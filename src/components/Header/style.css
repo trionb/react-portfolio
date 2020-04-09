@@ -3,11 +3,14 @@ body{
 }
 .navbar-light .navbar-brand {
     color: rgba(0,0,0,.5);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .bg-light {
     background-color:white!important;
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid lightgray;
 }
+
+
 .navbar-dark .navbar-brand{
     color: red;
 }
@@ -18,5 +21,4 @@ h1 {
 .container {
     padding: 20px;
     margin-top: 10px;
-    /* background-image: url(images/slickbackground.jpeg); */
 }

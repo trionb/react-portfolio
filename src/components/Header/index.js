@@ -8,7 +8,8 @@ function Header() {
         <section id="container">
             <section className="header">
                 <nav className="navbar navbar-expand-lg navbar-light bg-light">
-                   <Link className="navbar-brand" to="/">Trion Bailey</Link>                    <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                   <Link className="navbar-brand" to="/">Trion Bailey</Link>        
+                      <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
                         aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                         <nav className="navbar-toggler-icon"></nav>
                     </button>
