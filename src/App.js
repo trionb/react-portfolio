@@ -10,7 +10,7 @@ import { BrowserRouter,Route,Switch } from "react-router-dom";
 function App (){
   return (
         <>
-        <BrowserRouter basename="/react-portfolio">
+        <BrowserRouter basename="/react-portfolio/">
         <Header />
         <Switch>
           <Route exact path="/about" component={AboutMe} />
