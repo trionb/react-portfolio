@@ -12,8 +12,7 @@ function App (){
   return (
         <>
         <Header />
-
-        <BrowserRouter>
+        <BrowserRouter basename="/react-portfolio">
         <Switch>
           <Route exact path="/" component={HomePage} />
           <Route exact path="/about" component={AboutMe} />
