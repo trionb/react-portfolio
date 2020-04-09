@@ -12,11 +12,12 @@ function App (){
         <>
         <BrowserRouter basename="/react-portfolio">
         <Header />
-        {/* <Switch> */}
+        <Switch>
           <Route exact path="/about" component={AboutMe} />
           <Route exact path="/portfolio" component={Portfolio} />
           <Route exact path="/" component={HomePage} />
-        {/* </Switch> */}
+          <Route component={HomePage} />
+        </Switch>
         <Footer />
         </BrowserRouter>
         </>
