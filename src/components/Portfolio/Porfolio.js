@@ -11,9 +11,10 @@ function Portfolio () {
         <hr className="my-4" />
       <section className="container">
         <p>Welcome to my portfolio page.</p>
+        <Projects />
       </section>
       </div>
-      <Projects />
+      
       </>
     );
 }

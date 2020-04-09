@@ -5,7 +5,7 @@ import Fyre from "../Images/fyre.png";
 import PasswordGenerator from "../Images/passwordgenerator.png";
 import EmployeeGenerator from "../Images/Employee Generator.png";
 import NoteTaker from "../Images/note-taker.png";
-import EatDaSushi from "../Images/Eat-Da-Sushi.png";
+import EatDaSushi from "../Images/EatDatSushi.png";
 
 
 

@@ -4,23 +4,21 @@ import AboutMe from "./components/AboutMe/AboutMe";
 import Portfolio from "./components/Portfolio/Porfolio";
 import HomePage from "./components/HomePage/HomePage";
 import Footer from "./components/Footer/Footer";
-import Projects from "./components/Projects/Projects"
 import { BrowserRouter,Route,Switch } from "react-router-dom";
 
 
 function App (){
   return (
         <>
-        <Header />
         <BrowserRouter basename="/react-portfolio">
+        <Header />
         <Switch>
           <Route exact path="/" component={HomePage} />
           <Route exact path="/about" component={AboutMe} />
           <Route exact path="/portfolio" component={Portfolio} />
         </Switch>
-        </BrowserRouter>
-        <Projects/>
         <Footer />
+        </BrowserRouter>
         </>
   );
 }

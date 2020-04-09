@@ -1,5 +1,6 @@
 import React from "react";
 import "../AboutMe/style.css"
+import CoolDude from "../Images/cooldude.jpeg"
 
 function AboutMe() {
     return (
@@ -11,7 +12,7 @@ function AboutMe() {
                         <section className="row">
                             <article className="col-sm-12 card">
                                 <section className="card-body1">
-                                    <img src="images/cooldude.jpeg" className="float-left mr-2" width="495" height="400"
+                                    <img src={CoolDude} className="float-left mr-2" width="495" height="400"
                                         alt="cooldude" />
                                         <div className="aboutMe">
                                             <p><strong>"A smooth sea never made a skilled sailor"-FDR.</strong></p>
