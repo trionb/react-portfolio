@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/trionb/react-portfolio/static/css/main.885875be.chunk.css",
+    "main.js": "/trionb/react-portfolio/static/js/main.74c6b3ab.chunk.js",
+    "main.js.map": "/trionb/react-portfolio/static/js/main.74c6b3ab.chunk.js.map",
+    "runtime-main.js": "/trionb/react-portfolio/static/js/runtime-main.5d89f79c.js",
+    "runtime-main.js.map": "/trionb/react-portfolio/static/js/runtime-main.5d89f79c.js.map",
+    "static/js/2.3d454b50.chunk.js": "/trionb/react-portfolio/static/js/2.3d454b50.chunk.js",
+    "static/js/2.3d454b50.chunk.js.map": "/trionb/react-portfolio/static/js/2.3d454b50.chunk.js.map",
+    "index.html": "/trionb/react-portfolio/index.html",
+    "precache-manifest.4f7724cc2e0e9666283a642a24ca7b24.js": "/trionb/react-portfolio/precache-manifest.4f7724cc2e0e9666283a642a24ca7b24.js",
+    "service-worker.js": "/trionb/react-portfolio/service-worker.js",
+    "static/css/main.885875be.chunk.css.map": "/trionb/react-portfolio/static/css/main.885875be.chunk.css.map",
+    "static/js/2.3d454b50.chunk.js.LICENSE.txt": "/trionb/react-portfolio/static/js/2.3d454b50.chunk.js.LICENSE.txt",
+    "static/media/Eat-Da-Sushi.png": "/trionb/react-portfolio/static/media/Eat-Da-Sushi.3453c99d.png",
+    "static/media/Employee Generator.png": "/trionb/react-portfolio/static/media/Employee Generator.389d63c7.png",
+    "static/media/fyre.png": "/trionb/react-portfolio/static/media/fyre.6d0a3eb9.png",
+    "static/media/note-taker.png": "/trionb/react-portfolio/static/media/note-taker.1d6d7d3e.png",
+    "static/media/passwordgenerator.png": "/trionb/react-portfolio/static/media/passwordgenerator.61530060.png",
+    "static/media/soundtrackmovie.png": "/trionb/react-portfolio/static/media/soundtrackmovie.72403ae0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d89f79c.js",
+    "static/js/2.3d454b50.chunk.js",
+    "static/css/main.885875be.chunk.css",
+    "static/js/main.74c6b3ab.chunk.js"
+  ]
+}
