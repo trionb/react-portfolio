@@ -16,7 +16,6 @@ function App (){
           <Route exact path="/about" component={AboutMe} />
           <Route exact path="/portfolio" component={Portfolio} />
           <Route exact path="/" component={HomePage} />
-          <Route component={HomePage} />
         </Switch>
         <Footer />
         </BrowserRouter>
