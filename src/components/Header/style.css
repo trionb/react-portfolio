@@ -6,7 +6,7 @@ body{
 }
 .bg-light {
     background-color:white!important;
-    border-bottom:1px solid gray ;
+    border-bottom: 1px solid black;
 }
 .navbar-dark .navbar-brand{
     color: red;

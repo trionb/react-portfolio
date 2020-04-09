@@ -23,7 +23,7 @@ return (
                                             className="btn btn-outline-dark1" >GitHub</i></a> 
                                     <br />
                                     <a href="https://www.linkedin.com/in/trion-bailey-7717811a3/" target="_blank" rel="noopener noreferrer"><i
-                                            className="fab fa-linkedin">LinkedIn</i></a>
+                                            className="fab fa-linkedin" className="btn btn-outline-dark1">LinkedIn</i></a>
                                     <br />
                                     <br />
                                     <a href="download/Resume2020.pdf" className="btn btn-outline-dark1" target="_blank" type="submit"

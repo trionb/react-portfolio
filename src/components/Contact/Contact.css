@@ -14,3 +14,12 @@
     left: 50%;
     transform: translate(-50%, -50%)
   }
+.card-title {
+    margin-bottom: .75rem;
+    border-bottom: 1px solid black;
+}
+.jumbotron1{
+    background-image:url("/public/images/blackbackground.jpg");
+    height: 800px;
+    opacity: 95%;
+}
