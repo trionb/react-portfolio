@@ -13,9 +13,9 @@ function App (){
         <BrowserRouter basename="/react-portfolio">
         <Header />
         <Switch>
-          <Route path="/" component={HomePage} />
           <Route exact path="/about" component={AboutMe} />
           <Route exact path="/portfolio" component={Portfolio} />
+          <Route exact path="/" component={HomePage} />
           <Route component={HomePage} />
         </Switch>
         <Footer />
