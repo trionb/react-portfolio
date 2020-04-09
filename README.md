@@ -17,4 +17,5 @@
 
 ## Screenshot
 
-![image](img/wireframe-whats-that-song-2.png)
+<img width="1438" alt="Screen Shot 2020-04-09 at 4 20 26 PM" src="https://user-images.githubusercontent.com/60153876/78937227-19783e00-7a7e-11ea-8362-1e80c9dd4ea2.png">
+
