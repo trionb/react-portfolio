@@ -5,7 +5,8 @@ import Fyre from "../Images/fyre.png";
 import PasswordGenerator from "../Images/passwordgenerator.png";
 import EmployeeGenerator from "../Images/Employee Generator.png";
 import NoteTaker from "../Images/note-taker.png";
-import EatDaSushi from "../Images/EatDatSushi.png";
+import EatDatSushi from "../Images/sushi.png";
+import solveStaking from "../Images/solveStaking.png";
 
 
 
@@ -64,11 +65,21 @@ function Projects () {
         </div>
         <div className="col mb-4">
           <div className="card">
-            <img src={EatDaSushi} className="card-img-top" alt="random password generator" />
+            <img src={EatDatSushi} className="card-img-top" alt="random password generator" />
             <div className="card-body">
               <h5 className="card-title">Eat-Dat-Sushi</h5>
               <a href="https://eat-dat-sushi.herokuapp.com/" className="btn btn-outline-dark">View Web Page</a>
               <a href="https://github.com/trionb/Eat-Dat-Sushi" className="btn btn-outline-dark">Github Repo</a>
+            </div>
+          </div>
+        </div>
+        <div className="col mb-4">
+          <div className="card">
+            <img src={solveStaking} className="card-img-top" alt="random password generator" />
+            <div className="card-body">
+              <h5 className="card-title">Solve-Staking</h5>
+              <a href="https://solvestaking.herokuapp.com/" className="btn btn-outline-dark">View Web Page</a>
+              <a href="https://github.com/trionb/honey.stake" className="btn btn-outline-dark">Github Repo</a>
             </div>
           </div>
         </div>
